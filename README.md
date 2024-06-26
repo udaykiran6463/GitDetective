@@ -1,4 +1,4 @@
-# Dev-Detective-Project
+# Git-Detective-Project - https://udaykiran6463.github.io/GitDetective/
 Page that provides GitHub profile details for the user-name provided. Build using JS, CSS, and HTML. 
 
 Features:
